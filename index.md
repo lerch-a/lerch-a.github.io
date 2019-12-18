@@ -6,8 +6,7 @@
 
 # Projects
  * [HaplotypR](#HaplotypR)
- * [HaplotypR](#HaplotypR/docs/README.md)
- * [HaplotypR](https://lerch-a.github.io/HaplotypR/docs/README.md)
+ * [HaplotypR](#/HaplotypR)
  * [HaplotypR](https://lerch-a.github.io/HaplotypR)
 
 # Publications
