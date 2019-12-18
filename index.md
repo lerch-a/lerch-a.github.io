@@ -5,7 +5,7 @@
  * B.Sc. Bioinformatics, Univerity of Basel, Switzerland 2006
 
 # Projects
- * [HaplotypR](https://lerch-a.github.io/HaplotypR)
+ * [HaplotypR](HaplotypR/docs/README.md)
 
 # Publications
   * Lerch, A. et al. Development Of Amplicon Deep Sequencing Markers And Data Analysis Pipeline For Genotyping Multi-Clonal Malaria Infections. BMC Genomics (2017), 18(1), p.864, http://dx.doi.org/10.1186/s12864-017-4260-y.
