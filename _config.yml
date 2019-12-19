@@ -2,3 +2,22 @@ theme: jekyll-theme-slate
 
 title: [Anita Lerch]
 description: []
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Anita Lerch
+  avatar: #bio-photo.jpg
+  bio: #""
+  email: #username@domain
+  # Do not include the @ symbol in your Twitter username
+  twitter: #username
+  linkedin: #username
+  github: lerch-a
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
