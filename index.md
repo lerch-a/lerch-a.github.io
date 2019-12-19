@@ -5,8 +5,6 @@
  * B.Sc. Bioinformatics, Univerity of Basel, Switzerland 2006
 
 # Projects
- * [HaplotypR](#HaplotypR)
- * [HaplotypR](#/HaplotypR)
  * [HaplotypR](https://lerch-a.github.io/HaplotypR)
 
 # Publications
