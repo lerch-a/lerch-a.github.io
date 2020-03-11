@@ -1,3 +1,5 @@
+![Anita Lerch Image](/images/me.png)
+
 # Biography
  * Postdoctoral Fellow, Department of Biological Sciences & Eck Institute for Global Health, University of Notre Dame, USA  2018 - Present
  * PhD, Swiss Tropical and Public Health Institute, Switzerland  2018
