@@ -1,10 +1,10 @@
 ![Anita Lerch Image](images/anita.jpg)
 
 # Biography
- * Postdoctoral Fellow, Department of Biological Sciences & Eck Institute for Global Health, University of Notre Dame, USA  2018 - Present
- * Ph.D., Swiss Tropical and Public Health Institute, Switzerland  2018
- * M.Sc. Computer Science, University of Basel, Switzerland 2008
- * B.Sc. Bioinformatics, University of Basel, Switzerland 2006
+ * Postdoctoral Research Associate, Department of Biological Sciences & Eck Institute for Global Health, University of Notre Dame, USA  2018 - Present
+ * Ph.D. in Molecular Epidemiology, Swiss Tropical and Public Health Institute & University of Basel, Switzerland  2018
+ * M.Sc. in Computer Science, University of Basel, Switzerland 2008
+ * B.Sc. in Bioinformatics, University of Basel, Switzerland 2006
 
 # Projects
  * [HaplotypR](https://lerch-a.github.io/HaplotypR)
@@ -14,7 +14,7 @@
 * A Lerch, et al.
 Projecting vaccine demand and impact for emerging zoonotic pathogens.
 Under review, medRxiv. DOI: http://dx.doi:10.1101/2021.11.09.21266135.
-* M Gruenberg*, A Lerch* et al.
+* M Gruenberg, A Lerch et al.
 Amplicon deep sequencing improves Plasmodium falciparum genotyping in clinical trials of antimalarial drugs.
 *Scientific Reports*. 2019; 9(1):17790. DOI: http://dx.doi:10.1038/s41598-019-54203-0.
 * A Lerch et al.
@@ -23,7 +23,7 @@ Longitudinal tracking and quantification of individual Plasmodium falciparum clo
 * A Lerch et al.
 Development of amplicon deep sequencing markers and data analysis pipeline for genotyping multi-clonal malaria infections.
 *BMC Genomics*. 2017; 18(1):864. DOI: http://dx.doi:10.1186/s12864-017-4260-y.
-* D Gaidatzis*, A Lerch* et al.
+* D Gaidatzis, A Lerch et al.
 QuasR: quantification and annotation of short reads in R.
 *Bioinformatics*. 2015; 31(7):1130. DOI: http://dx.doi:10.1093/bioinformatics/btu781.
 
