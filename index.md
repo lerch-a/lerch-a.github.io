@@ -1,7 +1,8 @@
 ![Anita Lerch Image](images/anita.jpg)
 
 # Biography
- * Postdoctoral Research Associate, Department of Biological Sciences & Eck Institute for Global Health, University of Notre Dame, USA  2018 - Present
+ * Assistant Research Professor, Department of Biological Sciences & Eck Institute for Global Health, University of Notre Dame, USA  2023 - 2026
+ * Postdoctoral Research Associate, Department of Biological Sciences & Eck Institute for Global Health, University of Notre Dame, USA  2018 - 2023
  * Ph.D. in Molecular Epidemiology, Swiss Tropical and Public Health Institute & University of Basel, Switzerland  2018
  * M.Sc. in Computer Science, University of Basel, Switzerland 2008
  * B.Sc. in Bioinformatics, University of Basel, Switzerland 2006
@@ -12,11 +13,14 @@
 # Publications
 #### First author publications:
 * A Lerch, et al.
+Estimation of adult census size from close-kin dyads in the malaria mosquito Anopheles gambiae.
+*Evolutionary Applications*. 2026; 10:e70322. [DOI: 10.1111/eva.70322](https://doi.org/10.1111/eva.70322)
+* A Lerch, et al.
 Projecting vaccine demand and impact for emerging zoonotic pathogens.
-Under review, medRxiv. DOI: http://dx.doi:10.1101/2021.11.09.21266135.
+*BMC Medicine*. 2022; 20:202. [DOI: 10.1186/s12916-022-02405-1](https://doi.org/10.1186/s12916-022-02405-1).
 * M Gruenberg, A Lerch et al.
 Amplicon deep sequencing improves Plasmodium falciparum genotyping in clinical trials of antimalarial drugs.
-*Scientific Reports*. 2019; 9(1):17790. DOI: http://dx.doi:10.1038/s41598-019-54203-0.
+*Scientific Reports*. 2019; 9(1):17790. [DOI: 10.1038/s41598-019-54203-0](http://dx.doi:10.1038/s41598-019-54203-0).
 * A Lerch et al.
 Longitudinal tracking and quantification of individual Plasmodium falciparum clones in complex infections.
 *Scientific Reports*. 2019; 9(1):3333. DOI: http://dx.doi:10.1038/s41598-019-39656-7.
